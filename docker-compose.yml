@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  dvwa:
+    image: vulnerables/web-dvwa
+    ports:
+      - "8081:80"
+  dockhaxx-kali:
+    build: .
+    network_mode: host
+    stdin_open: true
+    tty: true

@@ -1,0 +1,7 @@
+nmap
+hydra
+sqlmap
+metasploit-framework
+nikto
+john
+enum4linux
