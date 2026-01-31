@@ -26,10 +26,6 @@ DockHaxx/
 ├── tools.txt # List of tools to install
 ├── missions/ # (Optional) Tasks/missions for learning
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧰 Prerequisites
